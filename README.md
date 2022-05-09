@@ -2,7 +2,7 @@
 - 👀 I’m interested in Space , Technology , Coding , Front-end
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me pyoorot13@gmail.com , https://www.instagram.com/guitar_r.13/
 
 <!---
 Guitar-13/Guitar-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
